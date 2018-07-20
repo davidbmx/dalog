@@ -1,5 +1,5 @@
 (function(){
-
+	var parentElement;
 	var style = {
 		"backgroundColor": "rgba(29,29,29,.4)",
 		"color": "#fff",
