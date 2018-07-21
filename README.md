@@ -1,3 +1,3 @@
 # dalog
 Screen log javascript
-Application for debug in html screen
+# Application for debug in html screen
